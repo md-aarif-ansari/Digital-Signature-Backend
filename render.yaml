@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: docsign-backend
+    runtime: docker
+    rootDir: backend
+    plan: free
